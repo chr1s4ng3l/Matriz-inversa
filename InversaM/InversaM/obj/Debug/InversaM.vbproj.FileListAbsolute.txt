@@ -1,0 +1,7 @@
+C:\Users\Christopher\Documents\SharpDevelop Projects\InversaM\InversaM\bin\Debug\InversaM.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\InversaM\InversaM\bin\Debug\InversaM.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\InversaM\InversaM\obj\Debug\InversaM.vbprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\InversaM\InversaM\obj\Debug\InversaM.MainForm.resources
+C:\Users\Christopher\Documents\SharpDevelop Projects\InversaM\InversaM\obj\Debug\InversaM.vbproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\InversaM\InversaM\obj\Debug\InversaM.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\InversaM\InversaM\obj\Debug\InversaM.pdb
